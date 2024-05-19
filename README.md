@@ -38,4 +38,4 @@ Will be used next stact:
 * socket.h (for Linux platform)
 
 Interface references:
-
+![alt text](https://github.com/PolyPlunge/pdsoft/blob/main/images/refer.png)
