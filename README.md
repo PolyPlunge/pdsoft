@@ -2,9 +2,9 @@
 ## // ON READY PART
 
 ### Software for local plunge drone controller.
-### Based on open-source project (OpenROV)[https://github.com/OpenROV]
+### Based on open-source project [OpenROV](https://github.com/OpenROV)
 
-### Description from original (repository)[https://github.com/OpenROV/openrov-software-arduino]:
+### Description from original [repository](https://github.com/OpenROV/openrov-software-arduino):
 #### Important:
 This version of the firmware no longer works with Cockpit versions 30.0.3 or earlier. The infrastructure to build and flash this code only exists in cockpit 31.0.1 and later.
 Description
